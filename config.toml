@@ -1,4 +1,4 @@
-baseurl = "https://upasana_parashar.edufor.me"
+baseurl = "https://upasana-parashar.edufor.me"
 DefaultContentLanguage = "en"
 title = "My Best Blog"
 theme = "beautifulhugo"
@@ -31,7 +31,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Upasana Parashar"
-  website = "upasana_parashar.edufor.me"
+  website = "upasanaparashar.edufor.me"
   email = "upasana_parashar@edufor.me"
   github = "UpasanaParashar"
   #twitter = "username"
